@@ -5,3 +5,4 @@
 [参考にしたサイト1](https://note.nkmk.me/python-opencv-face-detection-haar-cascade/)
 [参考にしたサイト2](https://algorithm.joho.info/programming/python/opencv-anime-movie-py/)
 
+[実行の様子](https://youtu.be/EonWQ-y1SIM)
