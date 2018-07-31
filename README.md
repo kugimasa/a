@@ -1,15 +1,7 @@
 # python_capture
-7/22
-python を用いた画像処理プログラムの作成.
-メンバーは各々作業用のローカルディレクトリを作成してください.
-作成後, 以下のサイトの手順にそってこのリモートリポジトリをpullして自分のローカルリポジトリと同期してください.
-
-[pullの参考ページ](https://techacademy.jp/magazine/10274)
-
+・顔を認識して, 画像で置き換える
+・キャプチャ画像を漫画風にする
 ---
+[参考にしたサイト1](https://note.nkmk.me/python-opencv-face-detection-haar-cascade/)
+[参考にしたサイト2](https://algorithm.joho.info/programming/python/opencv-anime-movie-py/)
 
-
-[このサイト](https://www.blog.umentu.work/python3-opencv3で指定した色のみを抽出して表示する【動画/)に載ってたコードもあげときます.
-指定した色のみを抽出して表示するプログラムです.
-
----
